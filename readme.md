@@ -1,12 +1,13 @@
 # vrf-js
 
+[![NPM](https://nodei.co/npm/@idena/vrf-js.png?stars&downloads)](https://nodei.co/npm/@idena/vrf-js/)  
 A reference implementation of [Google Key Transparency VRF](https://github.com/google/keytransparency/tree/master/core/crypto/vrf)
 
 ## Installation
 
 You can use this command to install:
 
-    npm install vrf-js
+    npm install @idena/vrf-js
 
 ## Usage
 

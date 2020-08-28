@@ -1,6 +1,6 @@
 {
   "name": "@idena/vrf-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reference implementation of Google Key Transparency VRF",
   "main": "index.js",
   "repository": {
